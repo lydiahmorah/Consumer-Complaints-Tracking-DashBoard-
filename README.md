@@ -1,4 +1,4 @@
-## Turning Complaints into Insights: The Power of a Data-Driven Dashboard
+#Turning Complaints into Insights: The Power of a Data-Driven Dashboard
 
 # Consumer Complaints Tracking Dashboard
 
