@@ -1,4 +1,5 @@
 # Turning Complaints into Insights: The Power of a Data-Driven Dashboard
+![1Consumer_Complaints - Dashboard](https://github.com/user-attachments/assets/e65624b2-cf33-46b3-8ede-27f3862a10e0)
 
 # Consumer Complaints Tracking Dashboard
 
